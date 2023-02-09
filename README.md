@@ -2,7 +2,7 @@
 
 # Sergei Parfenov
 
-<img src="#" alt="Black and white portrait on a colored background." width="">
+<img src="https://github.com/P0rt/P0rt/blob/main/gh-ava.jpg" alt="Black and white portrait." width="400">
 
 I'm an engineer with a passion for education and technology. I love finding ways to use technology to enhance the learning experience and make a positive impact. In my free time, I enjoy spending time with my two dogs and exploring all that Serbia has to offer.
 
