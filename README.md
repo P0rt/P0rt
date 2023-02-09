@@ -1,16 +1,18 @@
-### Hi there 👋
+👋 Hi, my name is
 
-<!--
-**P0rt/P0rt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sergei Parfenov
 
-Here are some ideas to get you started:
+<img src="#" alt="Black and white portrait on a colored background." width="">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there! I'm an engineer with a passion for education and technology. I love finding ways to use technology to enhance the learning experience and make a positive impact. In my free time, I enjoy spending time with my two dogs and exploring all that Serbia has to offer.
+
+You can find information about my experience on my personal [page](http://p0rt.github.io/resume/). Currently, I work as a product technical manager at Practicum USA, where I help to develop educational technology.
+
+
+🦄 You can follow me or get in touch on:
+
+- [Linkedin](https://www.linkedin.com/in/sergey-p-721b25171/)
+- [Facebook](https://www.facebook.com/Duckambition)
+- [Telegram](https://t.me/p00rt)
+
+✉️ Or send me a good old email at [serzhooo@gmail.com](mailto:serzhooo@gmail.com)
