@@ -1,18 +1,16 @@
-👋 Hi, my name is
+👋 Hey there! I'm
 
 # Sergei Parfenov
-
 <!-- <img src="https://github.com/P0rt/P0rt/blob/main/gh-ava.jpg" alt="Black and white portrait." width="300"> -->
 
-I'm an engineer with a passion for education and technology. I love finding ways to use technology to enhance the learning experience and make a positive impact. In my free time, I enjoy spending time with my two dogs and exploring all that Serbia has to offer.
+I'm an engineer fueled by a passion for education and technology. I constantly seek innovative ways to elevate the learning experience and make a significant positive impact. Beyond the world of tech, my two loyal dogs are my ultimate companions during moments of relaxation.
 
-You can find information about my experience on my personal [page](http://p0rt.github.io/resume/). Currently, I work as a product technical manager at Practicum USA, where I help to develop educational technology.
+Dive into my professional journey on my [resume](http://p0rt.github.io/resume/). At present, I'm steering the ship as a Product Technical Manager in TripleTen, orchestrating the creation of next-gen educational technology.
 
+🦄 Let's connect and chat:
 
-🦄 You can follow me or get in touch on:
-
-- [Linkedin](https://www.linkedin.com/in/sergey-p-721b25171/)
+- [LinkedIn](https://www.linkedin.com/in/sergey-p-721b25171/)
 - [Facebook](https://www.facebook.com/Duckambition)
 - [Telegram](https://t.me/p00rt)
 
-✉️ Or send me a good old email at [serzhooo@gmail.com](mailto:serzhooo@gmail.com)
+✉️ Or, drop me an email the old-fashioned way: [serzhooo@gmail.com](mailto:serzhooo@gmail.com)
