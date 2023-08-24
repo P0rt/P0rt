@@ -1,7 +1,7 @@
 👋 Hey there! I'm
 
 # Sergei Parfenov
-<!-- <img src="https://github.com/P0rt/P0rt/blob/main/gh-ava.jpg" alt="Black and white portrait." width="300"> -->
+<img src="https://github.com/P0rt/P0rt/blob/main/gh-ava.jpg" alt="Black and white portrait." width="300">
 
 I'm an engineer fueled by a passion for education and technology. I constantly seek innovative ways to elevate the learning experience and make a significant positive impact. Beyond the world of tech, my two loyal dogs are my ultimate companions during moments of relaxation.
 
