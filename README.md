@@ -1,10 +1,10 @@
 👋 Hey there! I'm
 
 # Sergei Parfenov
-I'm an engineer fueled by a passion for education and technology. I constantly seek innovative ways to elevate the learning experience and make a significant positive impact. Beyond the world of tech, my two loyal dogs are my ultimate companions during moments of relaxation.
+An engineer driven by passion for education and technology. I constantly explore innovative approaches to improving the educational process, striving to create meaningful change. Beyond the tech world, I find joy in the company of my two loyal dogs.
 
-Dive into my professional journey on my [resume](http://p0rt.github.io/resume/). At present, I'm steering the ship as a Product Technical Manager in TripleTen, orchestrating the creation of next-gen educational technology.
-
+AI/ML Engineer at TripleTen, where I develop and implement artificial intelligence and machine learning solutions. A detailed description of my professional journey is available in my [resume](http://p0rt.github.io/resume/).  
+  
 🦄 Let's connect and chat:
 
 - [LinkedIn](https://www.linkedin.com/in/sergey-p-721b25171/)
