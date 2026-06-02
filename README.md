@@ -7,7 +7,7 @@ Engineer building real-world AI. I design and ship LLM and agentic systems
 end to end: architecture, MLOps, and the product layer people actually use.
 I like turning vague, messy problems into things that work.
 
-More about my work in my [resume](http://p0rt.github.io/resume/).
+More about my work in my [resume](https://chatgpt.com/g/g-6a1eee4ae95081918796e9bc814bf802-sergei-parfenov). 
 
 🦄 Let's connect:
 - [DEV.TO](https://dev.to/p0rt)
